@@ -1,0 +1,6 @@
+requests==2.21.0
+pytest==6.1.0
+pytest-cov==2.10.1
+pytest-instafail==0.4.1
+numpy==1.18.2
+pandas==1.0.3

@@ -1,0 +1,9 @@
+.DS_Store
+._*
+**.pyc
+.pytest_cache/
+.idea/
+htmlcov/
+tasks/
+.coverage*
+test.xml
